@@ -8,8 +8,6 @@
 
 
 
-
-
 ## RefCOCO Segmentation Evaluation Results:
 <div align="left">
 
