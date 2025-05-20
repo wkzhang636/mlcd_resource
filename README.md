@@ -1,5 +1,5 @@
 # Example 
-<img src="https://github.com/deepglint/mlcd_resource/blob/main/updownfunk_mask.mp4" alt="output" width="1024"/>  
+<img src="updownfunk_mask.gif" alt="output" width="1024"/>  
 
 ## How to use
 If you just want to use this code, please refer to this sample below
